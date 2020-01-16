@@ -1,0 +1,23 @@
+{
+  "name": "addition",
+  "version": "1.0.0",
+  "description": "add two numbers and return sum",
+  "main": "Addition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajinkya1996/NodeJsModules.git"
+  },
+  "keywords": [
+    "addition",
+    "sum"
+  ],
+  "author": "ajinkya1996 <'khalate.ajinkya18@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajinkya1996/NodeJsModules/issues"
+  },
+  "homepage": "https://github.com/Ajinkya1996/NodeJsModules#readme"
+}
